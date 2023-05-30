@@ -42,7 +42,6 @@ public class program {
                             }
                         }
                         System.out.println();
-
                         break;
                     case 2:
                         for (NoteBook noteBook : mySet) {
@@ -63,7 +62,6 @@ public class program {
                     default:
                         System.out.println("Выберите корректное значение.");
                         break;
-
                 }
             }
             if (myChoise == 2) {
@@ -173,3 +171,5 @@ public class program {
         myInput.close();
     }
 }
+
+

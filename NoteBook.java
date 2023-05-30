@@ -28,5 +28,7 @@ public class NoteBook {
 
         return String.format("Name = %s, RAM = %d GB, HDD = %d GB, OS = %s, Color = %s", name, ram, hdd, os, color);
     }
-
 }
+
+
+
